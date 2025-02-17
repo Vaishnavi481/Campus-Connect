@@ -45,7 +45,7 @@ git
 
 ## Tech Stack
 
-- **Frontend:** React.js, Material UI
+- **Frontend:** React.js, MaterialUI
 - **Backend:** Node.js, Express
 - **Database:** Firebase Firestore
 - **Authentication:** Firebase Auth
